@@ -17,7 +17,7 @@ $ git clone https://github.com/Your_Username/Competitive-Programming.git
 
 > This makes a local copy of the repository in your machine.
 
-Once you have cloned the `Algo_Ds_Notes` repository in Github, move to that folder first using change directory command on Linux, Windows and Mac.
+Once you have cloned the `Competitive Programming` repository in Github, move to that folder first using change directory command on Linux, Windows and Mac.
 
 ### 3. Set it up :arrow_up:
 
@@ -29,7 +29,7 @@ origin  https://github.com/Your_Username/Competitive-Programming.git (fetch)
 origin  https://github.com/Your_Username/Competitive-Programming.git (push)
 ```
 
-Now, lets add a reference to the original [Algo_Ds_Notes](https://github.com/VinayakTekade/Competitive-Programming) repository using
+Now, lets add a reference to the original [Competitive-Programming](https://github.com/VinayakTekade/Competitive-Programming) repository using
 
 ```sh
 $ git remote add upstream https://github.com/VinayakTekade/Competitive-Programming.git
@@ -62,7 +62,7 @@ $ git checkout master
 # Reset local `master` branch to match `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `Algo_Ds_Notes` repo
+# Push changes to your forked `Competitive-Programming` repo
 $ git push origin master
 ```
 
